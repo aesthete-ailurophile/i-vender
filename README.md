@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IDEA Vending Machine - Campus Innovation Ecosystem
 
 ## 🎯 Project Overview
@@ -33,3 +34,7 @@ An innovative platform connecting students, alumni, and professors for project g
 **Institution:** Government Polytechnic College, Kottayam
 
 ## 📁 Project Structure
+=======
+# i-vender
+An app we made for hackathon at KITS, Kottayam
+>>>>>>> 45bf5b00a7260b5f0ad5a0156f39cc2c95e04b0d
